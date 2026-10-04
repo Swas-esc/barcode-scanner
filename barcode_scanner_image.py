@@ -1,3 +1,4 @@
+# Barcode Scanner from Images using OpenCV and pyzbar
 # Importing the required packages
 from pyzbar import pyzbar
 import argparse
